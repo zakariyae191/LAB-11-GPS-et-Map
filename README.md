@@ -1,4 +1,11 @@
+
+
+
 # GoogleMapLocationLab
+
+https://github.com/user-attachments/assets/154cb731-572d-41db-9cd0-a04dd815da31
+
+
 
 ## Objectif
 
@@ -78,21 +85,19 @@ Si la localisation ou le GPS est désactivé, l'application affiche une `AlertDi
 - La carte zoome vers la position actuelle.
 - Si le GPS est désactivé, une boîte de dialogue demande de l'activer.
 
-## Captures d’écran
 
-![Google Map](screenshots/map.png)
-
-![Permission localisation](screenshots/permission.png)
-
-![Marker position](screenshots/marker.png)
-
-![GPS désactivé](screenshots/gps_dialog.png)
 
 ## Explication des concepts
 
 ### 1. Google Maps Activity
 
 Google Maps Activity est un template Android Studio qui crée un écran de carte prêt à l'emploi. Il génère généralement `MapsActivity.java`, `activity_maps.xml` et `google_maps_api.xml`.
+
+<img width="1308" height="1416" alt="image" src="https://github.com/user-attachments/assets/b5777018-0065-4f97-ad20-60d0d9f74d68" />
+
+<img width="1133" height="388" alt="image" src="https://github.com/user-attachments/assets/e25d3f6c-5c5b-401a-b415-833a4a1bd332" />
+
+
 
 ### 2. google_maps_key
 
