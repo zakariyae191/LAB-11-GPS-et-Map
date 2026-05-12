@@ -47,6 +47,8 @@ Le projet a été créé avec le template Google Maps Activity dans Android Stud
 ### Étape 2 : Génération de la clé API
 
 La clé API Google Maps doit être créée dans Google Cloud Console. Il faut activer Maps SDK for Android, puis ajouter la clé dans `google_maps_api.xml`.
+<img width="901" height="921" alt="image" src="https://github.com/user-attachments/assets/2e5c3a46-f341-4e35-818e-42dfdca2071d" />
+
 
 ### Étape 3 : Ajout des permissions
 
